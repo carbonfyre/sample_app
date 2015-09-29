@@ -1,6 +1,6 @@
-# Sample App
+# Shield Academy
 
-This is the sample app for
-[*One Month Rails*](http://onemonthrails.com)
+This is the development app for
+[*Shield Academy*](https://www.facebook.com/ShieldAcademy)
 
-by [Shane M. Ross](https://www.facebook.com/RossDesign)
+by [Shane M. Ross](https://www.facebook.com/carbonfyre)
